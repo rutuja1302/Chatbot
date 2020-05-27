@@ -1,2 +1,2 @@
 # Chatbot
-Chatbot using java
+Creating a simple chatbot to chat like a human💬
